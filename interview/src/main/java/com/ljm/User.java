@@ -5,7 +5,7 @@ package com.ljm;/**
  */
 
 /**
- * @ClassName User
+ * @ClassName User https://github.com/ljm123-ljm/idea.git
  * @Description 测试git
  * @Author ljm
  * @Date 20:53 2020/4/12
@@ -14,4 +14,5 @@ package com.ljm;/**
 public class User {
     private String name;
     private Integer id;
+    private String address;
 }
